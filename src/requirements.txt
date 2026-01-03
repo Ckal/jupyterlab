@@ -1,0 +1,5 @@
+jupyterlab==4.2.5
+tornado==6.2
+ipywidgets
+gradio>=4.0.0
+transformers>=4.35.0
